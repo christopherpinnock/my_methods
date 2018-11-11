@@ -1,2 +1,2 @@
 # my_methods
-Solutions to problems I encounter
+Check for pushstate support
