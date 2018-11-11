@@ -1,2 +1,2 @@
 # my_methods
-My solutions to problems I encounter
+Solutions to problems I encounter
